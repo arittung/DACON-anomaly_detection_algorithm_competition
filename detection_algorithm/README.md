@@ -27,7 +27,7 @@
 
 <br>
 
-### 🔲 train img augmentation 방법
+### train img augmentation 방법
   - 이미지 기울이기, center crop + 이미지 기울이기, center crop + 왼쪽으로 늘리며 기울이기, center crop + 오른쪽으로 늘리며 기울이기, 왼쪽으로 늘리며 기울이기, 오른쪽으로 늘리며 기울이기, 이미지 기울이기 + blur 추가, bilateralFilter 추가하기 + 이미지 기울이기
   - (여기서부터 metal_nut 제외) 좌우반전 + 이미지 기울이기, 상하반전 + 이미지 기울이기, 좌우반전, 상하반전, 좌우반전 + 이미지 기울이기 + centercrop, 상하반전 + 이미지 기울이기 + centercrop, 이미지 기울이기 + blur 추가+좌우반전, 이미지 기울이기 + blur 추가 + 상하반전
     - metal_nut img의 경우 좌우상하 반전이 들어가면 정상 데이터와 비정상 데이터가 섞일 우려가 있어 제외시킴.

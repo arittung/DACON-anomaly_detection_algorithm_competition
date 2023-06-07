@@ -48,7 +48,7 @@
 
   
 
-<br><br>
+<br>
 
 ### baseline-efficientnet_b4.ipynb
 - data_augmentation.ipynb에서 만든 라벨들과 train_img들을 가져와 훈련시키는 코드이다.

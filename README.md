@@ -86,5 +86,5 @@ train_labels = y['1']
 
 
 <br><br>
-<b> 출처 | </br> [DACON - 월간 데이콘 Computer Vision 이상치 탐지 알고리즘 경진대회](https://dacon.io/competitions/official/235894/overview/description)
+<b> 출처 | </b> [DACON - 월간 데이콘 Computer Vision 이상치 탐지 알고리즘 경진대회](https://dacon.io/competitions/official/235894/overview/description)
 

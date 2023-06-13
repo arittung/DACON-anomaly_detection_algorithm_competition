@@ -1,4 +1,4 @@
-## DACON : [[computer vision] 이상치 탐지 알고리즘 경진대회](https://dacon.io/competitions/official/235894/overview/description)
+## DACON : [computer vision] 이상치 탐지 알고리즘 경진대회
 
 <img alt="Html" src ="https://img.shields.io/badge/dacon Final rank-Top 8%25-lightblue?style=for-the-badge"/>
 
@@ -83,3 +83,8 @@ train_labels = y['1']
   - 이 코드에선 SMOTETomek에 의해 실행할 때마다, train data 개수가 달라지지만 마지막 실행시 train img 개수 = 12588 였다.
   - 12588 = 12 * 1049 이기 때문에 딱 떨어지는 12로 설정했더니 batchsize = 32였을 때보다 정확도가 상승했다
     - 0.8152253422 -> 0.8309890947
+
+
+<br><br>
+<b> 출처 | </br> [DACON - 월간 데이콘 Computer Vision 이상치 탐지 알고리즘 경진대회](https://dacon.io/competitions/official/235894/overview/description)
+
